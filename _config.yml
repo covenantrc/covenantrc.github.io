@@ -1,0 +1,26 @@
+# Site settings
+title: Covenant Roofing and Construction 
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://covenantrc.com" # the base hostname & protocol for your site
+
+markdown: kramdown 
+
+motto: "Our Name is Your Assurance"
+addr_to: "Covenant Roofing & Construction"
+addr: "PO BOX 2340"
+city_state_zip: "Douglasville, GA 30133"
+phone: "404-975-8956"
+fax: "678-401-3760"
+
+# Build settings
+
+redcarpet:
+    extensions: ["smart"]
+
+kramdown:
+    input: GFM
