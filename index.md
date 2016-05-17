@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="house_banner.jpg" style="float:right">
+<img src="res/house_banner.jpg" style="float:right">
 
 ## Welcome to Covenant Roofing & Construction!
 We are a Georgia Licensed Residential Contractor serving customers in the Greater Atlanta area with 18 years of experience.
@@ -21,7 +21,7 @@ A **Covenant** is a "solemn promise". Our <strong>covenant</strong> with you, th
 
 Whether you are interested in upgrading your kitchen or bathroom, replacing your roof or siding, or finishing your basement, as remodeling professionals we provide years of expertise to assist you in creating a budget, choosing the right materials, creating the design, and executing your vision.
 
-<img src="house_front.jpg" style="float:left; margin-right: 30px">
+<img src="res/house_front.jpg" style="float:left; margin-right: 30px">
 
 - Insurance Claims Due To Hail & Wind Damage
 - Storm & Flood Damage Restoration
