@@ -4,10 +4,10 @@ title: Remodeling
 permalink: /remodeling/
 ---
 <div style="clear: both; margin-bottom: 40px">
-<img src="{{ site.base_url }}/res/home_theater_remodel.jpg">
-<img src="{{ site.base_url }}/res/living_room_remodel.jpg">
-<img src="{{ site.base_url }}/res/screen_porch_remodel.jpg">
-<img src="{{ site.base_url }}/res/house_back.jpg">
+<img src="/res/home_theater_remodel.jpg">
+<img src="/res/living_room_remodel.jpg">
+<img src="/res/screen_porch_remodel.jpg">
+<img src="/res/house_back.jpg">
 </div>
 
 
@@ -118,6 +118,6 @@ We invite you to schedule an initial consultation to discuss your upcoming proje
 - Water Damage Restoration
 - Wine Cellars
 
-<img src="{{ site.base_url }}/res/bath_remodel.jpg">
+<img src="/res/bath_remodel.jpg">
 </div> 
 

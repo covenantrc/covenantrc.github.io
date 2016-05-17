@@ -5,10 +5,10 @@ permalink: /storm-fire/
 ---
 
 <div style="clear: both; margin-bottom: 40px">
-<img src="{{ site.base_url }}/res/storm_fire_1.jpg">
-<img src="{{ site.base_url }}/res/construction.jpg">
-<img src="{{ site.base_url }}/res/construction2.jpg">
-<img src="{{ site.base_url }}/res/finished_house.jpg">
+<img src="/res/storm_fire_1.jpg">
+<img src="/res/construction.jpg">
+<img src="/res/construction2.jpg">
+<img src="/res/finished_house.jpg">
 </div>
 
 Are you unsure of the condition of your roof? Call us for a **free**, no obligation inspection. We will make an assessment and take pictures of what we see. If you don't need a new roof, we'll tell you! We never try to sell something you don't need, because our philsophy is:
@@ -27,7 +27,7 @@ Never filed a claim with your insurance company? Don’t worry!  We are very exp
 </div>
 
 <div class="big column"> 
-<img src="{{ site.base_url }}/res/roofing-covenant-photo.jpg"  width="400">
+<img src="/res/roofing-covenant-photo.jpg"  width="400">
 </div>
 <div class="big column" markdown="1">
 - Architectural Shingles
