@@ -19,14 +19,13 @@ A **Covenant** is a "solemn promise". Our **covenant** with you, the customer, i
 4. We will provide expert knowledge in construction and remodeling.
 
 
-Whether you are interested in upgrading your kitchen or bathroom, replacing your roof or siding, or finishing your basement, as remodeling professionals we provide years of expertise to assist you in creating a budget, choosing the right materials, creating the design, and executing your vision.
+## Custom Home Building is our specialty, but we also do smaller projects:
 
 <img src="res/house_front.jpg" style="float:left; margin-right: 30px">
 
 - Insurance Claims Due To Hail & Wind Damage
-- Storm & Flood Damage Restoration
+- Storm Damage Restoration
 - Remodeling (Interior & Exterior)
-- Window Installations
 - Tear-Offs & Re-Roofs
-
+- Basement Finishing
 
