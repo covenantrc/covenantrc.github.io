@@ -29,4 +29,4 @@ A **Covenant** is a "solemn promise". Our **covenant** with you, the customer, i
 - Tear-Offs & Re-Roofs
 - Basement Finishing
 - Additions
-
+- Decks, porches, and Sunrooms
