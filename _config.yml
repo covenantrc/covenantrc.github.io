@@ -4,9 +4,8 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "keywords:"
     At Covenant Roofing & Construction, LLC. in Douglasville, GA, Our Name is Your Assurance.
 keywords: >
-    Roofing, Roof Repairs, New Roofs, Insurance Claims, Storm Damage, Metal Roofing, Douglasville,
-    Atlanta area, Paulding, Douglas County, Construction, Renovations, Licensed Residential Contractor,
-    kitchen, bathroom, roof, siding, basement, remodeling, window installation
+    Roofing, New Roofs, Roof leaks, Insurance Claims, Storm Damage, Douglasville, Paulding, Douglas County, New Construction, Renovations, Licensed Residential Contractor,
+    kitchen, bathroom, basement, remodeling, Custom Home Building, addition, deck, sunroom, porch
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://covenantrc.com" # the base hostname & protocol for your site
 
