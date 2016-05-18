@@ -28,4 +28,5 @@ A **Covenant** is a "solemn promise". Our **covenant** with you, the customer, i
 - Remodeling (Interior & Exterior)
 - Tear-Offs & Re-Roofs
 - Basement Finishing
+- Additions
 
