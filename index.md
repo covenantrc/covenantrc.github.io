@@ -10,7 +10,7 @@ We are a Georgia Licensed Residential Contractor serving customers in the Greate
 
 
 ## Why did we choose Covenant Roofing & Construction as our company name?
-A **Covenant** is a "solemn promise". Our <strong>covenant</strong> with you, the customer, is fourfold:
+A **Covenant** is a "solemn promise". Our **covenant** with you, the customer, is fourfold:
 
 
 1. We will be honest in everything.
