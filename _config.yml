@@ -13,7 +13,7 @@ url: "http://covenantrc.com" # the base hostname & protocol for your site
 markdown: kramdown 
 
 motto: "Our Name is Your Assurance"
-addr_to: "Covenant Roofing & Construction"
+addr_to: "Covenant Roofing & Construction, LLC"
 addr: "PO BOX 2340"
 city_state_zip: "Douglasville, GA 30133"
 phone: "404-975-8956"
