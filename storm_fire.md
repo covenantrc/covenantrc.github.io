@@ -30,18 +30,11 @@ Never filed a claim with your insurance company? Don’t worry!  We are very exp
 <img src="/res/roofing-covenant-photo.jpg"  width="400">
 </div>
 <div class="big column" markdown="1">
-- Architectural Shingles
-- Emergency Repairs
-- Flat Roofs
+
+
 - Leaky Roof Repairs
 - New Roofs
-- Quality Materials
-- Residential
-- Siding
-- Skilled Workmanship
 - Thorough Cleanup
-- Windows
-- Flood Damage Restoration
 - Storm Damage Repair
 </div>
 
