@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="res/house_banner.jpg" style="float:right">
+<img src="res/Deck (2).jpg" style="float:right; width: 250px">
 
 ## Welcome to Covenant Roofing & Construction!
 We are a Georgia Licensed Residential Contractor serving customers in the Greater Atlanta area with 18 years of experience.
@@ -21,7 +21,7 @@ A **Covenant** is a "solemn promise". Our **covenant** with you, the customer, i
 
 <span style="font-size: 1.5em">Custom Home Building</span> is our specialty, but we also do smaller projects:
 
-<img src="res/house_front.jpg" style="float:left; margin-right: 30px">
+<img src="res/porch_back.jpg" style="float:left; margin-right: 30px">
 
 - Insurance Claims Due To Hail & Wind Damage
 - Storm Damage Restoration
