@@ -21,7 +21,7 @@ A **Covenant** is a "solemn promise". Our **covenant** with you, the customer, i
 
 <span style="font-size: 1.5em">Custom Home Building</span> is our specialty, but we also do smaller projects:
 
-<img src="res/porch_back.jpg" style="float:left; margin-right: 30px">
+<img src="res/porch_back.jpg" style="float:left; margin-right: 30px; width: 400px">
 
 - Insurance Claims Due To Hail & Wind Damage
 - Storm Damage Restoration
