@@ -13,9 +13,6 @@ permalink: /remodeling/
 </div>
 
 
-We never lose sight of the fact that, althought we are the remodeling experts, you are the customer and it is your home we are working on.
-
-We invite you to schedule an initial consultation to discuss your upcoming project, see examples of our work and learn why **Covenant Roofing & Construction** should be your choice for home remodeling and renovations.
 
 **Covenant Roofing and Construction** provides complete home remodeling and renovation services including:
 
