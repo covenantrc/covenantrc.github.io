@@ -10,7 +10,7 @@ permalink: /remodeling/
 
 <img src="/res/Deck (4).jpg" style="width: 300px">
 <img src="/res/screen_porch_remodel.jpg" style="width: 300px">
-<img src="/res/home_theater_remodel" style="width: 300px">
+<img src="/res/home_theater_remodel.jpg" style="width: 300px">
 
 </div>
 
