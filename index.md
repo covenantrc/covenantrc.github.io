@@ -19,7 +19,7 @@ A **Covenant** is a "solemn promise". Our **covenant** with you, the customer, i
 4. We will provide expert knowledge in construction and remodeling.
 
 
-<h2 style="display: inline">Custom Home Building</h2> is our specialty, but we also do smaller projects:
+<span style="font-size: 1.5em">Custom Home Building</span> is our specialty, but we also do smaller projects:
 
 <img src="res/house_front.jpg" style="float:left; margin-right: 30px">
 
