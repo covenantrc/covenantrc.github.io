@@ -4,10 +4,14 @@ title: Remodeling
 permalink: /remodeling/
 ---
 <div style="clear: both; margin-bottom: 40px">
-<img src="/res/home_theater_remodel.jpg">
-<img src="/res/living_room_remodel.jpg">
-<img src="/res/screen_porch_remodel.jpg">
-<img src="/res/house_back.jpg">
+<img src="/res/Deck (1).jpg" style="width: 300px">
+<img src="/res/Deck (2).jpg" style="width: 300px">
+<img src="/res/Deck (3).jpg" style="width: 300px">
+
+<img src="/res/Deck (4).jpg" style="width: 300px">
+<img src="/res/screen_porch_remodel.jpg" style="width: 300px">
+<img src="/res/home_theater_remodel" style="width: 300px">
+
 </div>
 
 
