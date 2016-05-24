@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Custom Home Building
+excerpt: Custom home building is Covenant Roofing &amp; Constructions's specialty. Let us build your custom home in the Douglasville and surrounding area.
+keywords: build, custom home, customized, home building, custom home building, building, douglasville
 permalink: /home-building/
 ---
 <div style='float: left; width: 350px; margin-right: 20px'>
