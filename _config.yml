@@ -25,3 +25,6 @@ redcarpet:
 
 kramdown:
     input: GFM
+
+gems:
+  - jekyll-sitemap
