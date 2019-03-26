@@ -5,11 +5,11 @@ layout: default
 
 <img src="res/Deck (2).jpg" style="float:right; width: 250px">
 
-## Welcome to Covenant Roofing & Construction!
-We are a Georgia Licensed Residential Contractor serving customers in the Greater Atlanta area with 18 years of experience.
+## Welcome to Covenant Residential Construction!
+We are a Georgia Licensed Residential Contractor serving customers in the Greater Atlanta area with 30 years of experience.
 
 
-## Why did we choose Covenant Roofing & Construction as our company name?
+## Why did we choose Covenant Residential Construction as our company name?
 A **Covenant** is a "solemn promise". Our **covenant** with you, the customer, is fourfold:
 
 
