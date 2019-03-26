@@ -5,4 +5,13 @@ permalink: /about/
 ---
 <img src="/res/family.jpg" style="float: right; margin-left: 50px">
 
-Over 25 years ago, Stephen Murphy began working in residential construction. He earned his Bachelor of Science Degree in Building Construction from Georgia Southern University. He has built homes, remodeled homes, repaired homes and inspected homes for his entire career. He has worked for 2 large home building companies in the Atlanta area - most recently for John Wieland Homes and Neighborhoods, where he was in charge of Quality Control as Division Quality Manager. He is a code certified inspector for one and two family dwellings since 1998. He gained valuable hands-on experience while working for a remodeling company that performed complete renovations to homes located in a historic district in Greenville, South Carolina. Stephen also furthered his education by attending Seminary and earning a Master of Divinity degree. He is a member of Grace Presbyterian Church in Douglasville, Georgia and serves as a Ruling Elder. Stephen is married, and they have 5 children.
+Over 30 yrs ago, Stephen Murphy began working in residential construction on a framing crew.  From there, he:
+- Earned a BS degree in Construction from Georgia Southern
+- Built many homes
+- Remodeled homes
+- Inspected homes
+- Repaired storm damage and handled insurance claims
+- Worked for John Wieland Homes all around Atlanta
+- Worked for a remodeling contractor in an historic district in Greenville, SC
+- Took time to attend seminary and earn a Master of Divinity Degree
+- Successfully run his construction business for the past 10 yrs
