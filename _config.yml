@@ -1,10 +1,10 @@
 # Site settings
-title: Covenant Roofing and Construction 
+title: Covenant Residential Construction
 email: stephen@covenantrc.com 
 description: > # this means to ignore newlines until "keywords:"
-    At Covenant Roofing & Construction, LLC. in Douglasville, GA, Our Name is Your Assurance.
+    At Covenant Residential Construction, LLC. in Canton, GA, Our Name is Your Assurance.
 keywords: >
-    Roofing, New Roofs, Roof leaks, Insurance Claims, Storm Damage, Douglasville, Paulding, Douglas County, New Construction, Renovations, Licensed Residential Contractor,
+    Roofing, New Roofs, Roof leaks, Insurance Claims, Storm Damage, Canton, Cherokee, Cobb, Pickens, New Construction, Renovations, Licensed Residential Contractor,
     kitchen, bathroom, basement, remodeling, Custom Home Building, addition, deck, sunroom, porch
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://covenantrc.com" # the base hostname & protocol for your site
@@ -12,11 +12,10 @@ url: "http://covenantrc.com" # the base hostname & protocol for your site
 markdown: kramdown 
 
 motto: "Our Name is Your Assurance"
-addr_to: "Covenant Roofing & Construction, LLC"
-addr: "PO BOX 2340"
-city_state_zip: "Douglasville, GA 30133"
+addr_to: "Covenant Residential Construction, LLC"
+addr: "620 Bridgewater Place"
+city_state_zip: "Canton, GA 30115"
 phone: "404-975-8956"
-fax: "678-401-3760"
 
 # Build settings
 
